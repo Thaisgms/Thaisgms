@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=530084&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800040&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
 🎓 Formação Técnica em Informática para Internet<br>ETEC de Rio Grande da Serra (ETEC RGS)<br><br>👩🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas<br>1º semestre – São Paulo Tech School (SPTECH)<br><br>✨Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
@@ -19,5 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Thaisgms&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisgms&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=530084&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=120&section=footer"/>
 
