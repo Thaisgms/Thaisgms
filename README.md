@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc0066&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-🎓 Formação Técnica em Informática para Internet<br>ETEC de Rio Grande da Serra (ETEC RGS)<br><br>👩🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas<br>1º semestre – São Paulo Tech School (SPTECH)<br><br>✨Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
+🎓 Formação Técnica em Informática para Internet<br>ETEC de Rio Grande da Serra (ETEC RGS)<br><br>👩🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas<br>2º semestre – São Paulo Tech School (SPTECH)<br><br>✨Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 ## 🧠 Tecnologias que eu uso:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
