@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👩‍💻  Luana Oliveira - Moonnax</h1>
+<h1 align="center">Thais Candido 👩🏽‍💻</h1>
 
 ###
 
@@ -29,7 +29,6 @@ Além da graduação, atuo como estagiário na área de Data e IA, onde aplico c
 ###
 
 <div align="center">
-
   <!-- Front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -38,23 +37,20 @@ Além da graduação, atuo como estagiário na área de Data e IA, onde aplico c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-
-  <br><br>
-
   <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-
-  <br><br>
-
   <!-- Data & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+</div>
 
+<div>
+  <img style="100%" weight="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 
