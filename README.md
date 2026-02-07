@@ -1,23 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=130&section=header"/>
+<div align="center">
+  <a href="www.linkedin.com/in/luana-oliveira-moonnax" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc0066&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+###
 
-##
-🎓 Formação Técnica em Informática para Internet<br>ETEC de Rio Grande da Serra (ETEC RGS)<br><br>👩🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas<br>2º semestre – São Paulo Tech School (SPTECH)<br><br>✨Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
+<h1 align="center">👩‍💻  Luana Oliveira - Moonnax</h1>
 
-## 🧠 Tecnologias que eu uso:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+###
 
-# 💻 Meu Dashboard:
-![](https://github-readme-stats.vercel.app/api?username=Thaisgms&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisgms&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h4 align="center">Data & AI | Técnico em Informática para Internet | Análise e Desenvolvimento de sistemas</h4>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=120&section=footer"/>
+###
+
+<h3 align="left">👋🏽 Hello World!</h3>
+
+###
+
+<p align="left">Sou estudante da área de Tecnologia, com formação em Informática para Internet e atualmente cursando Análise e Desenvolvimento de Sistemas na SPTech. Estou em constante busca por crescimento profissional, com foco em Análise de Dados, Inteligência Artificial (IA) e desenvolvimento Front-end.
+
+Além da graduação, atuo como estagiário na área de Data e IA, onde aplico conceitos na prática e aprofundo meus conhecimentos.</p>
+
+###
+
+<h2 align="left">🛠️linguagens e Ferramentas</h2>
+
+###
+
+<div align="center">
+
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+
+  <br><br>
+
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+
+  <br><br>
+
+  <!-- Data & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+
+</div>
+
 
